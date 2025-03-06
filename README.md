@@ -1,4 +1,4 @@
-Javascript Classes & Inheritance Tests
+# Javascript Classes & Inheritance Tests
 
 To run tests clone this repo
 
